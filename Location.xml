@@ -1,0 +1,2458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yaml xmlns:yamlconv="yamlconv" yamlconv:endianness="big" yamlconv:offsetCount="3" type="array">
+  <value ShowLevel="4">
+    <MessageID type="string">AagetoMt</MessageID>
+    <Translate X="-4931.034f" Y="0f" Z="861.7604f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">AdeyaLake</MessageID>
+    <Translate X="365.7798f" Y="0f" Z="1882.565f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AdeyaLake</MessageID>
+    <Translate X="455f" Y="0f" Z="2035.767f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">AdeyaLake</MessageID>
+    <Translate X="496.1175f" Y="0f" Z="2285.511f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AgePlateau</MessageID>
+    <Translate X="1506.608f" Y="0f" Z="2465.708f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AgunaiLake</MessageID>
+    <Translate X="1405.333f" Y="0f" Z="-2841.862f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AkazaMt</MessageID>
+    <Translate X="3993.518f" Y="0f" Z="1596.335f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AmimePlateau</MessageID>
+    <Translate X="219.7383f" Y="0f" Z="3631.89f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AmonenePlateau</MessageID>
+    <Translate X="2932.593f" Y="0f" Z="-250.0983f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AnbonBeach</MessageID>
+    <Translate X="1206.683f" Y="0f" Z="3728.922f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AnchoBeach</MessageID>
+    <Translate X="4498.385f" Y="0f" Z="3552.553f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AnoleLake</MessageID>
+    <Translate X="2097.295f" Y="0f" Z="-2150.354f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AnoleTunnel</MessageID>
+    <Translate X="2007.961f" Y="0f" Z="-2013.301f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ArafuraPlain</MessageID>
+    <Translate X="446.593f" Y="0f" Z="3335.282f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AraisoBeach</MessageID>
+    <Translate X="1936.097f" Y="0f" Z="3878.847f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">AzimetosPlateau</MessageID>
+    <Translate X="-4044.919f" Y="0f" Z="405.9199f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BachimakuMt</MessageID>
+    <Translate X="4403.436f" Y="0f" Z="2182.471f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BaconCliff</MessageID>
+    <Translate X="1818.745f" Y="0f" Z="-1890.884f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BameHill</MessageID>
+    <Translate X="-3998.905f" Y="0f" Z="-1614.109f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BanmezaLake</MessageID>
+    <Translate X="904.4924f" Y="0f" Z="2873.268f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BantaValley</MessageID>
+    <Translate X="-1437.213f" Y="0f" Z="-554.4125f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BarakkiPlain</MessageID>
+    <Translate X="-2051.041f" Y="0f" Z="1138.946f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BarumePlain</MessageID>
+    <Translate X="193.4487f" Y="0f" Z="3134.545f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BigalLake</MessageID>
+    <Translate X="2212.71f" Y="0f" Z="-1773.663f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BiginaTrees</MessageID>
+    <Translate X="3202.202f" Y="0f" Z="2083.38f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BiridinHill</MessageID>
+    <Translate X="-3475.817f" Y="0f" Z="1868.02f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">BironSnow</MessageID>
+    <Translate X="-4052.762f" Y="0f" Z="-3010.672f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">BironSnow</MessageID>
+    <Translate X="-3929.008f" Y="0f" Z="-3319.075f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BironSnow</MessageID>
+    <Translate X="-3719.052f" Y="0f" Z="-2982.065f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BituoValley</MessageID>
+    <Translate X="1329.271f" Y="0f" Z="2564.321f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BlindForest</MessageID>
+    <Translate X="327.0044f" Y="0f" Z="-3079.971f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BlizzarValley</MessageID>
+    <Translate X="-3065.76f" Y="0f" Z="-2954.228f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BokoboLake</MessageID>
+    <Translate X="2427.523f" Y="0f" Z="-1728.584f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BonrasForest</MessageID>
+    <Translate X="1477.939f" Y="0f" Z="3254.438f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BoraraCape</MessageID>
+    <Translate X="4480.136f" Y="0f" Z="897.2372f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BottuBay</MessageID>
+    <Translate X="4403.177f" Y="0f" Z="-192.5229f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BrostarPlain</MessageID>
+    <Translate X="3238.914f" Y="0f" Z="567.59f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BuhaIslands</MessageID>
+    <Translate X="2701.199f" Y="0f" Z="-1748.291f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BuibuiTrees</MessageID>
+    <Translate X="2085.391f" Y="0f" Z="2094.244f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BuichadaPlateau</MessageID>
+    <Translate X="4166.958f" Y="0f" Z="-3153.444f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BuidaLake</MessageID>
+    <Translate X="1854.702f" Y="0f" Z="3679.667f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BumiPlain</MessageID>
+    <Translate X="-664.1662f" Y="0f" Z="750.4846f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">BumiPlain</MessageID>
+    <Translate X="-264.6486f" Y="0f" Z="605.4452f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">BuramuPlateau</MessageID>
+    <Translate X="812.7005f" Y="0f" Z="2177.131f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ChagaraMt</MessageID>
+    <Translate X="3194.096f" Y="0f" Z="3559.933f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ChuonoPond</MessageID>
+    <Translate X="3493.344f" Y="0f" Z="1964.773f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">CresiaPeninsula</MessageID>
+    <Translate X="3420.639f" Y="0f" Z="3807.475f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DamzelForest</MessageID>
+    <Translate X="832.0786f" Y="0f" Z="2700.08f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DanioPlain</MessageID>
+    <Translate X="3950.514f" Y="0f" Z="-977.1213f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DarinoPond</MessageID>
+    <Translate X="3208.8f" Y="0f" Z="1698.877f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DasukidaMt</MessageID>
+    <Translate X="3173.402f" Y="0f" Z="3193.408f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DasukidaPlateau</MessageID>
+    <Translate X="3002.681f" Y="0f" Z="3081.751f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DatsuPlain</MessageID>
+    <Translate X="-348.243f" Y="0f" Z="3298.634f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DeathCaldera</MessageID>
+    <Translate X="2563.403f" Y="0f" Z="-2971.021f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DekamuPlain</MessageID>
+    <Translate X="2770.196f" Y="0f" Z="2282.414f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">DokamamaPlain</MessageID>
+    <Translate X="1265.77f" Y="0f" Z="772.6583f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DokamamaPlain</MessageID>
+    <Translate X="1378.157f" Y="0f" Z="1050.083f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DokuroPond</MessageID>
+    <Translate X="3313.558f" Y="0f" Z="-3498.718f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DonLake</MessageID>
+    <Translate X="3720.493f" Y="0f" Z="-598.1126f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DotiBeach</MessageID>
+    <Translate X="3167.14f" Y="0f" Z="3721.088f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">DragonsFar</MessageID>
+    <Translate X="-4661.335f" Y="0f" Z="3626.376f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EagleBridge</MessageID>
+    <Translate X="-3117.187f" Y="0f" Z="-1287.573f" />
+    <Type>1</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EastEunpoHighlands</MessageID>
+    <Translate X="1126.051f" Y="0f" Z="-3673.369f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">EastEunpoHighlands</MessageID>
+    <Translate X="1677.922f" Y="0f" Z="-3670.069f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EastGerudo</MessageID>
+    <Translate X="-2537.653f" Y="0f" Z="3539.304f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EastGerudoPlateau</MessageID>
+    <Translate X="-1576.906f" Y="0f" Z="2987.601f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EastShrine</MessageID>
+    <Translate X="-498.5233f" Y="0f" Z="1930.951f" />
+    <Type>1</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ElegLake</MessageID>
+    <Translate X="1098.472f" Y="0f" Z="1162.922f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EnRiver</MessageID>
+    <Translate X="-15.19631f" Y="0f" Z="3251.925f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EquePlateau</MessageID>
+    <Translate X="1715.501f" Y="0f" Z="2619.629f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ErumedaPlateau</MessageID>
+    <Translate X="-4100.342f" Y="0f" Z="1296.489f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">EunpoHighlands</MessageID>
+    <Translate X="335.735f" Y="0f" Z="-3693.148f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ExpaTrees</MessageID>
+    <Translate X="3853.023f" Y="0f" Z="2011.589f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FairyForest</MessageID>
+    <Translate X="-962.7613f" Y="0f" Z="1705.28f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FenaMt</MessageID>
+    <Translate X="-1893.224f" Y="0f" Z="1942.54f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">FeoreRiver</MessageID>
+    <Translate X="-224.7359f" Y="0f" Z="-2056.397f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">FeoreRiver</MessageID>
+    <Translate X="277.0514f" Y="0f" Z="-1632.181f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FeoreRiver</MessageID>
+    <Translate X="337.236f" Y="0f" Z="-2749.984f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">FeoreRiver</MessageID>
+    <Translate X="893.1265f" Y="0f" Z="-2537.419f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FinrasForest</MessageID>
+    <Translate X="423.3096f" Y="0f" Z="2952.625f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FlogPond</MessageID>
+    <Translate X="-1191.477f" Y="0f" Z="1659.283f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FloriaFalls</MessageID>
+    <Translate X="1772.758f" Y="0f" Z="3256.497f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">FloriaRiver</MessageID>
+    <Translate X="869.362f" Y="0f" Z="3143.61f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FloriaRiver</MessageID>
+    <Translate X="1277.003f" Y="0f" Z="3327.131f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">FuruboLake</MessageID>
+    <Translate X="2420.754f" Y="0f" Z="-1421.703f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">FuruboLake</MessageID>
+    <Translate X="2519.544f" Y="0f" Z="-1516.648f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">FuruboLake</MessageID>
+    <Translate X="2598.22f" Y="0f" Z="-1719.215f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">GakanakkyoPlain</MessageID>
+    <Translate X="-1946.576f" Y="0f" Z="-117.134f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GakanakkyoPlain</MessageID>
+    <Translate X="-1605.534f" Y="0f" Z="-202.0661f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">GakanakkyoPlain</MessageID>
+    <Translate X="-1408.126f" Y="0f" Z="-342.2131f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GamettaPlateau</MessageID>
+    <Translate X="2600.777f" Y="0f" Z="1779.888f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GaneLake</MessageID>
+    <Translate X="3261.381f" Y="0f" Z="1314.115f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GarakishiPass</MessageID>
+    <Translate X="3382.508f" Y="0f" Z="-2273.783f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GasemaDam</MessageID>
+    <Translate X="3557.454f" Y="0f" Z="78.21869f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GasemaRiver</MessageID>
+    <Translate X="2518.1f" Y="0f" Z="198.977f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">GasemaRiver</MessageID>
+    <Translate X="3206.194f" Y="0f" Z="352.7521f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GashamaHill</MessageID>
+    <Translate X="680.5388f" Y="0f" Z="-909.205f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GashamahiMt</MessageID>
+    <Translate X="1172.032f" Y="0f" Z="-320.0698f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GatakaraPond</MessageID>
+    <Translate X="-487.485f" Y="0f" Z="1163.091f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">GatinLake</MessageID>
+    <Translate X="2750.703f" Y="0f" Z="-1480.539f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GatinLake</MessageID>
+    <Translate X="2753.679f" Y="0f" Z="-1274.42f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">GatinLake</MessageID>
+    <Translate X="2769.944f" Y="0f" Z="-989.4903f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GenLake</MessageID>
+    <Translate X="2186.524f" Y="0f" Z="-1193.028f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GeraRiver</MessageID>
+    <Translate X="2821.545f" Y="0f" Z="1952.351f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GerudoCanyon</MessageID>
+    <Translate X="-2308.234f" Y="0f" Z="2216.004f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GerudoSummit</MessageID>
+    <Translate X="-4104.676f" Y="0f" Z="699.1396f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GiankonIsland</MessageID>
+    <Translate X="-259.5609f" Y="0f" Z="-2193.719f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GibogaHill</MessageID>
+    <Translate X="3357.071f" Y="0f" Z="-3079.65f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GibururuMt</MessageID>
+    <Translate X="3243.232f" Y="0f" Z="94.80028f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GigiLake</MessageID>
+    <Translate X="2083.947f" Y="0f" Z="-13.67247f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GiminoPond</MessageID>
+    <Translate X="3721.611f" Y="0f" Z="1905.712f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GimpoMt</MessageID>
+    <Translate X="1931.038f" Y="0f" Z="2777.759f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GisaHill</MessageID>
+    <Translate X="-3638.635f" Y="0f" Z="-948.8678f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GishiHill</MessageID>
+    <Translate X="-3478.071f" Y="0f" Z="-679.1806f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">GoanaValley</MessageID>
+    <Translate X="3273.622f" Y="0f" Z="3412.07f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GobyMt</MessageID>
+    <Translate X="2566.629f" Y="0f" Z="3474.813f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GoinaPlateau</MessageID>
+    <Translate X="2213.056f" Y="0f" Z="944.0733f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GoronSpa</MessageID>
+    <Translate X="1775.962f" Y="0f" Z="-2255.678f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GoyoLake</MessageID>
+    <Translate X="4268.146f" Y="0f" Z="-3017.484f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GumaroValley</MessageID>
+    <Translate X="2469.419f" Y="0f" Z="3259.862f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GutinizaPlain</MessageID>
+    <Translate X="869.9221f" Y="0f" Z="3363.719f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">GyunaIsland</MessageID>
+    <Translate X="4651.704f" Y="0f" Z="-1026.992f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HagoromoLake</MessageID>
+    <Translate X="1710.64f" Y="0f" Z="948.3325f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HamiyonPlain</MessageID>
+    <Translate X="3060.01f" Y="0f" Z="1883.294f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HarayaLake</MessageID>
+    <Translate X="376.6248f" Y="0f" Z="3477.886f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HashibiroLake</MessageID>
+    <Translate X="-3383.476f" Y="0f" Z="-1233.788f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">HashibiroLake</MessageID>
+    <Translate X="-3248.773f" Y="0f" Z="-1436.402f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HatenoBay</MessageID>
+    <Translate X="3684.648f" Y="0f" Z="2503.467f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HatenoBeach</MessageID>
+    <Translate X="4016.552f" Y="0f" Z="2314.7f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HatenokoIsland</MessageID>
+    <Translate X="4008.369f" Y="0f" Z="2944.777f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HawkMt</MessageID>
+    <Translate X="-3834.283f" Y="0f" Z="-1326.91f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaEastSummit</MessageID>
+    <Translate X="-2752.838f" Y="0f" Z="-3053.666f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaIcicle</MessageID>
+    <Translate X="-4345.387f" Y="0f" Z="-3743.275f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaMt_North</MessageID>
+    <Translate X="-3539.268f" Y="0f" Z="-3740.209f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaNorthSummit</MessageID>
+    <Translate X="-3983.641f" Y="0f" Z="-3612.721f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaPeak</MessageID>
+    <Translate X="-2770.682f" Y="0f" Z="-2913.745f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaSouthSummit</MessageID>
+    <Translate X="-3471.156f" Y="0f" Z="-2576.249f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaTundera</MessageID>
+    <Translate X="-3395.053f" Y="0f" Z="-3297.968f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">HeburaTundera</MessageID>
+    <Translate X="-3310.238f" Y="0f" Z="-3077.46f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HeburaWestSummit</MessageID>
+    <Translate X="-4455.328f" Y="0f" Z="-3171.224f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">HeburaWestSummit</MessageID>
+    <Translate X="-4422.798f" Y="0f" Z="-2722.941f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HemaHill</MessageID>
+    <Translate X="-4239.648f" Y="0f" Z="152.9755f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HesonaiValley</MessageID>
+    <Translate X="-1867.924f" Y="0f" Z="2816.817f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">HigakkareBeach</MessageID>
+    <Translate X="4273.578f" Y="0f" Z="-2072.4f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HigakkareBeach</MessageID>
+    <Translate X="4353.725f" Y="0f" Z="-2400.411f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HigakkarePlain</MessageID>
+    <Translate X="4096.214f" Y="0f" Z="-2148.708f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HigashinoBay</MessageID>
+    <Translate X="4283.439f" Y="0f" Z="2355.344f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HimeidaMt</MessageID>
+    <Translate X="2548.448f" Y="0f" Z="2461.164f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HopeBridge</MessageID>
+    <Translate X="2751.723f" Y="0f" Z="-87.14342f" />
+    <Type>1</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HyliaMt</MessageID>
+    <Translate X="-1277.152f" Y="0f" Z="2180.244f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HyliaRiver</MessageID>
+    <Translate X="-1227.882f" Y="0f" Z="1981.25f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">HyralIslands</MessageID>
+    <Translate X="-329.8351f" Y="0f" Z="2638.244f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="-583.5325f" Y="0f" Z="-947.4525f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="-532.4271f" Y="0f" Z="-756.79f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="-475.4249f" Y="0f" Z="-1171.53f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="-326.0399f" Y="0f" Z="-650.648f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="-291.4153f" Y="0f" Z="-1257.689f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="-3.682743f" Y="0f" Z="-1228.532f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="51.35384f" Y="0f" Z="-1028.042f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">Hyrule_Out</MessageID>
+    <Translate X="53.31944f" Y="0f" Z="-762.6868f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">HyruleEastTown</MessageID>
+    <Translate X="-10.08295f" Y="0f" Z="-437.5038f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">HyruleWestTown</MessageID>
+    <Translate X="-514.2282f" Y="0f" Z="-436.4212f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IbaraPlateau</MessageID>
+    <Translate X="765.2322f" Y="0f" Z="3789.279f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IkokoPlateau</MessageID>
+    <Translate X="4443.083f" Y="0f" Z="354.5604f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ImeruMt</MessageID>
+    <Translate X="-425.2582f" Y="0f" Z="-1754.122f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IooValley</MessageID>
+    <Translate X="2272.28f" Y="0f" Z="-709.5626f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IrimoLake</MessageID>
+    <Translate X="1712.285f" Y="0f" Z="-1514.948f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IrimoRiver</MessageID>
+    <Translate X="1566.699f" Y="0f" Z="-1842.93f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IsakiCape</MessageID>
+    <Translate X="3800.012f" Y="0f" Z="3656.958f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">IsakuIslands</MessageID>
+    <Translate X="1311.438f" Y="0f" Z="535.1791f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">IsakuIslands</MessageID>
+    <Translate X="1418.596f" Y="0f" Z="44.87286f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">IsakuIslands</MessageID>
+    <Translate X="1934.135f" Y="0f" Z="323.2885f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">JedaPlateau</MessageID>
+    <Translate X="-2200.999f" Y="0f" Z="1823.386f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">JijigegeMt</MessageID>
+    <Translate X="2377.446f" Y="0f" Z="2195.25f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">JiuRiver</MessageID>
+    <Translate X="2112.25f" Y="0f" Z="-163.7089f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">JiuRiver</MessageID>
+    <Translate X="2657.776f" Y="0f" Z="-364.3933f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KagossaMt</MessageID>
+    <Translate X="-556.5148f" Y="0f" Z="3222.281f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KaiyanPlain</MessageID>
+    <Translate X="2614.559f" Y="0f" Z="590.4836f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KakamoLake</MessageID>
+    <Translate X="1708.057f" Y="0f" Z="789.7225f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KakaomePlain</MessageID>
+    <Translate X="-901.645f" Y="0f" Z="-1434.893f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KakufusaPlain</MessageID>
+    <Translate X="151.7625f" Y="0f" Z="851.8387f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KamasuPlateau</MessageID>
+    <Translate X="1436.453f" Y="0f" Z="2988.998f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KamutariPlateau</MessageID>
+    <Translate X="2509.431f" Y="0f" Z="1225.729f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KapporeMt</MessageID>
+    <Translate X="-925.6411f" Y="0f" Z="2629.127f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KarimikiLake</MessageID>
+    <Translate X="3061.679f" Y="0f" Z="2042.064f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KarusaValley</MessageID>
+    <Translate X="-4308.194f" Y="0f" Z="1854.498f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KasuraMt</MessageID>
+    <Translate X="-3276.283f" Y="0f" Z="-2417.338f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KattoriPlateau</MessageID>
+    <Translate X="556.1763f" Y="0f" Z="2487.625f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1863.418f" Y="0f" Z="1399.328f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1767.892f" Y="0f" Z="1222.144f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1657.89f" Y="0f" Z="1121.077f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1557.524f" Y="0f" Z="921.486f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1455.123f" Y="0f" Z="177.5255f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1365.761f" Y="0f" Z="681.3458f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1293.346f" Y="0f" Z="434.8282f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KaturaRiver</MessageID>
+    <Translate X="-1243.666f" Y="0f" Z="-124.3432f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KauLake</MessageID>
+    <Translate X="-3072.184f" Y="0f" Z="-2134.821f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KauLake</MessageID>
+    <Translate X="-2866.764f" Y="0f" Z="-2008.338f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KazanaDungeon</MessageID>
+    <Translate X="3454.685f" Y="0f" Z="-3254.741f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KazuryuLake</MessageID>
+    <Translate X="928.1736f" Y="0f" Z="2583.119f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KazuryuRiver</MessageID>
+    <Translate X="1023.655f" Y="0f" Z="2762.54f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KazusuPass</MessageID>
+    <Translate X="4114.774f" Y="0f" Z="-1206.422f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KibakkaSnow</MessageID>
+    <Translate X="-2830.421f" Y="0f" Z="-2415.83f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KibinaLake</MessageID>
+    <Translate X="1017.212f" Y="0f" Z="3512.102f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KihirePlain</MessageID>
+    <Translate X="1492.766f" Y="0f" Z="2867.27f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KikinosaMt</MessageID>
+    <Translate X="-1943.638f" Y="0f" Z="-1258.014f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KikinosaPlain</MessageID>
+    <Translate X="-2544.851f" Y="0f" Z="-1279.414f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KikinosaPlain</MessageID>
+    <Translate X="-2231.495f" Y="0f" Z="-1344.869f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KimarikaMt</MessageID>
+    <Translate X="2912.347f" Y="0f" Z="1463.034f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KimarikaPlateau</MessageID>
+    <Translate X="3200.979f" Y="0f" Z="1385.767f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KingValley</MessageID>
+    <Translate X="-1567.362f" Y="0f" Z="-2118.342f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KinmePlateau</MessageID>
+    <Translate X="4654.153f" Y="0f" Z="3720.611f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KinshoiMt</MessageID>
+    <Translate X="-1105f" Y="0f" Z="556.2332f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KirisasaPlateau</MessageID>
+    <Translate X="2929.498f" Y="0f" Z="1244.796f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KiriyabuMt</MessageID>
+    <Translate X="2153.19f" Y="0f" Z="1130.308f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KitakkareBeach</MessageID>
+    <Translate X="4717.296f" Y="0f" Z="-2923.514f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KitakkarePlain</MessageID>
+    <Translate X="3803.343f" Y="0f" Z="-2823.346f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KitakkarePlateau</MessageID>
+    <Translate X="4175.11f" Y="0f" Z="-2883.105f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KitanoBay</MessageID>
+    <Translate X="4021.11f" Y="0f" Z="2422.685f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KiyanbaTrees</MessageID>
+    <Translate X="1015.735f" Y="0f" Z="-1770.906f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KiyanbaTrees</MessageID>
+    <Translate X="1020.974f" Y="0f" Z="-1376.306f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KoganeyaLake</MessageID>
+    <Translate X="2995.042f" Y="0f" Z="2916.248f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KokuppiSnow</MessageID>
+    <Translate X="-2345.436f" Y="0f" Z="-2508.51f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KokuwaLake</MessageID>
+    <Translate X="1977.848f" Y="0f" Z="1842.493f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KomoreBeach</MessageID>
+    <Translate X="698.7559f" Y="0f" Z="3932.49f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KondanaLake</MessageID>
+    <Translate X="2336.467f" Y="0f" Z="-2042.684f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KoshaIsland</MessageID>
+    <Translate X="4636.826f" Y="0f" Z="-608.1185f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KuhanLake</MessageID>
+    <Translate X="2787.807f" Y="0f" Z="2730.744f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KukujaValley</MessageID>
+    <Translate X="-3939.646f" Y="0f" Z="-186.9583f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KukujaValley</MessageID>
+    <Translate X="-3485.018f" Y="0f" Z="-179.3438f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KukujaValley</MessageID>
+    <Translate X="-3112.07f" Y="0f" Z="-485.277f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KukujaValley</MessageID>
+    <Translate X="-2918.179f" Y="0f" Z="-1180.623f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KukujaValley</MessageID>
+    <Translate X="-2292.558f" Y="0f" Z="-1583.594f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KumPlateau</MessageID>
+    <Translate X="-4109.842f" Y="0f" Z="-2850.503f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KunaiLake</MessageID>
+    <Translate X="-1304.129f" Y="0f" Z="1095.336f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KunaiLake</MessageID>
+    <Translate X="-993.4432f" Y="0f" Z="1163.181f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KurindaPrairie</MessageID>
+    <Translate X="-332.9032f" Y="0f" Z="3682.915f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KurisobeSnow</MessageID>
+    <Translate X="-4556.402f" Y="0f" Z="1090.751f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">KurisobeSnow</MessageID>
+    <Translate X="-4528.158f" Y="0f" Z="743.4631f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KuroidaPlateau</MessageID>
+    <Translate X="2131.271f" Y="0f" Z="2602.765f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KutenLake</MessageID>
+    <Translate X="2700.937f" Y="0f" Z="2944.842f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">KutiffMt</MessageID>
+    <Translate X="-2690.956f" Y="0f" Z="-776.0194f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">LakeFloria</MessageID>
+    <Translate X="1737.86f" Y="0f" Z="3532.013f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">LanayruBay</MessageID>
+    <Translate X="3449.198f" Y="0f" Z="752.7706f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">LanayruBay</MessageID>
+    <Translate X="3813.893f" Y="0f" Z="612.9576f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">LaveBeach</MessageID>
+    <Translate X="-174.4568f" Y="0f" Z="3850.024f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MacusePeninsula</MessageID>
+    <Translate X="4616.399f" Y="0f" Z="-2242.998f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MakuminoValley</MessageID>
+    <Translate X="95.26317f" Y="0f" Z="3394.451f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ManbaLake</MessageID>
+    <Translate X="1864.913f" Y="0f" Z="-2453.815f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_CentralHyrule</MessageID>
+    <Translate X="-458.72f" Y="0f" Z="581.5958f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_DeathMountain</MessageID>
+    <Translate X="2522.093f" Y="0f" Z="-2768.819f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_EastHateru</MessageID>
+    <Translate X="2679.294f" Y="0f" Z="2507.28f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_EldinCanyon</MessageID>
+    <Translate X="1852.762f" Y="0f" Z="-1400.643f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_EldinMountains</MessageID>
+    <Translate X="1310.076f" Y="0f" Z="-3375.616f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_FironeGrassland</MessageID>
+    <Translate X="-423.3035f" Y="0f" Z="3156.432f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_FironeSea</MessageID>
+    <Translate X="-51.15855f" Y="0f" Z="3986.363f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_GerudoDesert</MessageID>
+    <Translate X="-3665.435f" Y="0f" Z="3615.889f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_GerudoHighlands</MessageID>
+    <Translate X="-4088.508f" Y="0f" Z="843.2399f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_HateruSea</MessageID>
+    <Translate X="4141.208f" Y="0f" Z="2845.045f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_HeburaMountains</MessageID>
+    <Translate X="-3079.067f" Y="0f" Z="-3024.682f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="-431.0963f" Y="0f" Z="2302.195f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="-312.9002f" Y="0f" Z="2781.245f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="-255.5434f" Y="0f" Z="2430.426f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="-149.2475f" Y="0f" Z="2521.087f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="17.3757f" Y="0f" Z="2262.132f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="142.2255f" Y="0f" Z="2501.871f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MapArea_HyliaLake</MessageID>
+    <Translate X="261.7675f" Y="0f" Z="2712.565f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_HyruleForest</MessageID>
+    <Translate X="363.8293f" Y="0f" Z="-2545.783f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_HyruleHill</MessageID>
+    <Translate X="-2382.624f" Y="0f" Z="-407.0772f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_LanayruSea</MessageID>
+    <Translate X="4674.544f" Y="0f" Z="-196.7966f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_LanayruWaterSources</MessageID>
+    <Translate X="3697.889f" Y="0f" Z="261.7407f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_LanayruWetlands</MessageID>
+    <Translate X="1746.642f" Y="0f" Z="-115.9755f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_LiveMountain</MessageID>
+    <Translate X="3897.756f" Y="0f" Z="1418.147f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_TabantaFrontier</MessageID>
+    <Translate X="-3475.292f" Y="0f" Z="-1178.815f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_TamulOutback</MessageID>
+    <Translate X="3602.154f" Y="0f" Z="-3186.161f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_TamulPlateau</MessageID>
+    <Translate X="3653.85f" Y="0f" Z="-2223.59f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_TamulSea</MessageID>
+    <Translate X="4811.544f" Y="0f" Z="-3428.552f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">MapArea_WestHateru</MessageID>
+    <Translate X="1297.487f" Y="0f" Z="1524.738f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Eldin</MessageID>
+    <Translate X="2037.628f" Y="0f" Z="-1815.487f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Firone</MessageID>
+    <Translate X="969.3282f" Y="0f" Z="2825.316f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Gerudo</MessageID>
+    <Translate X="-4093.62f" Y="0f" Z="3341.348f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Hateru</MessageID>
+    <Translate X="2248.804f" Y="0f" Z="1675.709f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Hebura</MessageID>
+    <Translate X="-3357.823f" Y="0f" Z="-2704.61f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_HyrulePrairie </MessageID>
+    <Translate X="-247.9775f" Y="0f" Z="-77.93417f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Lanayru</MessageID>
+    <Translate X="3174.933f" Y="0f" Z="615.162f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="1">
+    <MessageID type="string">MapRegion_Tamul</MessageID>
+    <Translate X="3781.758f" Y="0f" Z="-2929.523f" />
+    <Type>6</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MarittaHill</MessageID>
+    <Translate X="-1443.947f" Y="0f" Z="-1343.873f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MarittaHill</MessageID>
+    <Translate X="-1339.352f" Y="0f" Z="-1522.522f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MarittaPrairie</MessageID>
+    <Translate X="-1678.374f" Y="0f" Z="-1721.54f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">MarittaPrairie</MessageID>
+    <Translate X="-1253.685f" Y="0f" Z="-1761.268f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MasazuRock</MessageID>
+    <Translate X="-726.1989f" Y="0f" Z="-413.942f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MedakaValley</MessageID>
+    <Translate X="4202.735f" Y="0f" Z="-782.028f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MeganeRock</MessageID>
+    <Translate X="-2222.083f" Y="0f" Z="2538.037f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MemeMt</MessageID>
+    <Translate X="3852.034f" Y="0f" Z="-567.6556f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MenadaBeach</MessageID>
+    <Translate X="4603.312f" Y="0f" Z="1830.088f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MerkayaLowTrees</MessageID>
+    <Translate X="-1227.893f" Y="0f" Z="2725.529f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MezusuPass</MessageID>
+    <Translate X="-3580.874f" Y="0f" Z="-2363.096f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MiddleTrees</MessageID>
+    <Translate X="3100.82f" Y="0f" Z="2163.635f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MihekoBay</MessageID>
+    <Translate X="4405.705f" Y="0f" Z="-1900.773f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MinakkareFalls</MessageID>
+    <Translate X="3732.506f" Y="0f" Z="-1158.95f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MinakkareLake</MessageID>
+    <Translate X="3622.851f" Y="0f" Z="-1062.804f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MinakkarePlain</MessageID>
+    <Translate X="3275.57f" Y="0f" Z="-1323.438f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MinaminoBay</MessageID>
+    <Translate X="3480.906f" Y="0f" Z="2879.94f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MizemakuMt</MessageID>
+    <Translate X="4170.002f" Y="0f" Z="1922.007f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MomoMt</MessageID>
+    <Translate X="-20.78066f" Y="0f" Z="1898.345f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MoriMt</MessageID>
+    <Translate X="3612.613f" Y="0f" Z="-2093.094f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MoroLake</MessageID>
+    <Translate X="3600.973f" Y="0f" Z="-571.3436f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MorudaMt</MessageID>
+    <Translate X="-1391.485f" Y="0f" Z="3599.811f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MorugaMt</MessageID>
+    <Translate X="-1376.093f" Y="0f" Z="3361.435f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">MuguriPlain</MessageID>
+    <Translate X="2133.169f" Y="0f" Z="1913.805f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NaganizaHill</MessageID>
+    <Translate X="2381.763f" Y="0f" Z="3400.41f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NagyuPlateau</MessageID>
+    <Translate X="4147.114f" Y="0f" Z="-339.1458f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NaierunPeninsula</MessageID>
+    <Translate X="4444.754f" Y="0f" Z="641.6023f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NanaimoPlain</MessageID>
+    <Translate X="-1218.669f" Y="0f" Z="-2025.639f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">NanaimoPlain</MessageID>
+    <Translate X="-1108.882f" Y="0f" Z="-2267.237f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NangoPond</MessageID>
+    <Translate X="1646.413f" Y="0f" Z="-511.1064f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NaruguPeninsula</MessageID>
+    <Translate X="4663.077f" Y="0f" Z="2372.2f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NefraHill</MessageID>
+    <Translate X="-2166.355f" Y="0f" Z="1509.352f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NezuppoTrees</MessageID>
+    <Translate X="-339.3401f" Y="0f" Z="3567.093f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NiiLake</MessageID>
+    <Translate X="-48.05897f" Y="0f" Z="3056.364f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NikakaIsland</MessageID>
+    <Translate X="1542.168f" Y="0f" Z="-3073.989f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NishakkarePlain</MessageID>
+    <Translate X="3308.855f" Y="0f" Z="-1906.976f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NitariBeach</MessageID>
+    <Translate X="2940.91f" Y="0f" Z="3656.191f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NomyPlain</MessageID>
+    <Translate X="-2131.809f" Y="0f" Z="-675.509f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">NomyPlain</MessageID>
+    <Translate X="-1917.154f" Y="0f" Z="-397.7965f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NorthHugeStone</MessageID>
+    <Translate X="-3321.692f" Y="0f" Z="2247.354f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">NutsLake</MessageID>
+    <Translate X="64.06233f" Y="0f" Z="-1883.159f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">OkuAkkarePlain</MessageID>
+    <Translate X="3485.775f" Y="0f" Z="-3632.724f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OkuAkkarePlain</MessageID>
+    <Translate X="3743.577f" Y="0f" Z="-3348.963f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OkuwaLake</MessageID>
+    <Translate X="1627.921f" Y="0f" Z="1384.484f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">OkuwaLake</MessageID>
+    <Translate X="2129.809f" Y="0f" Z="1451.482f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OngiForest</MessageID>
+    <Translate X="552.6283f" Y="0f" Z="-288.8328f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">OoosePlain</MessageID>
+    <Translate X="-882.0316f" Y="0f" Z="3141.238f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OoosePlain</MessageID>
+    <Translate X="-779.3099f" Y="0f" Z="3564.308f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OrupaPlateau</MessageID>
+    <Translate X="-2939.791f" Y="0f" Z="1207.231f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OshoromaLake</MessageID>
+    <Translate X="3171.152f" Y="0f" Z="-162.5068f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">OtsukoWet</MessageID>
+    <Translate X="3601.308f" Y="0f" Z="-1636.774f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PafaBeach</MessageID>
+    <Translate X="231.5065f" Y="0f" Z="3897.292f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PaiyuBay</MessageID>
+    <Translate X="4234.203f" Y="0f" Z="314.3643f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PakanchiIsland</MessageID>
+    <Translate X="4653.201f" Y="0f" Z="-815.5294f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PaparaPlateau</MessageID>
+    <Translate X="-1571.535f" Y="0f" Z="2714.918f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PearlWaste</MessageID>
+    <Translate X="-3117.933f" Y="0f" Z="2981.83f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PeridoBarrier</MessageID>
+    <Translate X="-2042.257f" Y="0f" Z="3194.071f" />
+    <Type>1</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PongagaMt</MessageID>
+    <Translate X="3350.909f" Y="0f" Z="2531.152f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PoponMt</MessageID>
+    <Translate X="-2228.961f" Y="0f" Z="337.8244f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PstaLake</MessageID>
+    <Translate X="812.0146f" Y="0f" Z="-2353.949f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PukiroroMt</MessageID>
+    <Translate X="2728.609f" Y="0f" Z="119.195f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PukuntoMt</MessageID>
+    <Translate X="613.183f" Y="0f" Z="565.5311f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">PupukoreFalls</MessageID>
+    <Translate X="3082.758f" Y="0f" Z="-455.6181f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RaberaWet</MessageID>
+    <Translate X="2419.998f" Y="0f" Z="2782.405f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RapikuruPlateau</MessageID>
+    <Translate X="3910.343f" Y="0f" Z="58.04811f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RapinyaPlateau</MessageID>
+    <Translate X="3408.837f" Y="0f" Z="-235.483f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RaruLake</MessageID>
+    <Translate X="2019.892f" Y="0f" Z="3215.872f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RashamaPlain</MessageID>
+    <Translate X="-1338.996f" Y="0f" Z="-783.9037f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RashamaPlain</MessageID>
+    <Translate X="-1241.788f" Y="0f" Z="-1064.655f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RazezePlateau</MessageID>
+    <Translate X="2798.955f" Y="0f" Z="917.7661f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RiaroTrees</MessageID>
+    <Translate X="1951.004f" Y="0f" Z="2441.781f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RiberaForest</MessageID>
+    <Translate X="1885.236f" Y="0f" Z="3326.098f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RibuchaPlateau</MessageID>
+    <Translate X="-735.7194f" Y="0f" Z="-2079.798f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">Rikona_Peninshra</MessageID>
+    <Translate X="1605.518f" Y="0f" Z="679.8781f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RinosPass</MessageID>
+    <Translate X="-3793.153f" Y="0f" Z="-2236.129f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RirimukuHighlands</MessageID>
+    <Translate X="-344.3807f" Y="0f" Z="-3120.998f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RirimukuMt</MessageID>
+    <Translate X="-1247.49f" Y="0f" Z="-3262.852f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RirimukuMt</MessageID>
+    <Translate X="-825.6263f" Y="0f" Z="-2764.272f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RirimukuMt</MessageID>
+    <Translate X="-571.4212f" Y="0f" Z="-2308.842f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RirimukuMt</MessageID>
+    <Translate X="-561.4199f" Y="0f" Z="-2635.115f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RirimukuMt</MessageID>
+    <Translate X="-355.3164f" Y="0f" Z="-2767.049f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RiritotoLake</MessageID>
+    <Translate X="-3753.867f" Y="0f" Z="-1745.084f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RiritotoLake</MessageID>
+    <Translate X="-3607.676f" Y="0f" Z="-1941.101f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RiritotoLake</MessageID>
+    <Translate X="-3444.882f" Y="0f" Z="-1724.979f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RishakutoPlateau</MessageID>
+    <Translate X="1849.912f" Y="0f" Z="1243.904f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RodaiLake</MessageID>
+    <Translate X="1864.004f" Y="0f" Z="3129.849f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RogyLake</MessageID>
+    <Translate X="2967.446f" Y="0f" Z="2223.7f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RokomakuMt</MessageID>
+    <Translate X="3821.569f" Y="0f" Z="1688.986f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RonronFarm</MessageID>
+    <Translate X="109.8676f" Y="0f" Z="272.1871f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RonronRiver</MessageID>
+    <Translate X="125.7936f" Y="0f" Z="1755.183f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RonronRiver</MessageID>
+    <Translate X="337.7395f" Y="0f" Z="-656.6373f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RonronRiver</MessageID>
+    <Translate X="486.4524f" Y="0f" Z="1090.921f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RonronRiver</MessageID>
+    <Translate X="783.3584f" Y="0f" Z="-127.9453f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RonronRiver</MessageID>
+    <Translate X="819.0995f" Y="0f" Z="412.6512f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RoshiganLake</MessageID>
+    <Translate X="870.3967f" Y="0f" Z="1604.001f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RosomaLake</MessageID>
+    <Translate X="3479.49f" Y="0f" Z="-884.0862f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RuberaHill</MessageID>
+    <Translate X="-3392.41f" Y="0f" Z="609.5185f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RutesLake</MessageID>
+    <Translate X="1685.59f" Y="0f" Z="3089.038f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RutimaHill</MessageID>
+    <Translate X="-4527.025f" Y="0f" Z="1417.045f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">RutsuPlain</MessageID>
+    <Translate X="-3892.528f" Y="0f" Z="-721.7849f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">RutsuPlain</MessageID>
+    <Translate X="-3805.889f" Y="0f" Z="-481.1168f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SaiMt</MessageID>
+    <Translate X="-915.3127f" Y="0f" Z="-210.8579f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SanaePlateau</MessageID>
+    <Translate X="429.7239f" Y="0f" Z="1760.073f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SanrosaLake</MessageID>
+    <Translate X="1201.699f" Y="0f" Z="-1144.251f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SaohPoint</MessageID>
+    <Translate X="2687.7f" Y="0f" Z="-764.1218f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SaphiasPlateau</MessageID>
+    <Translate X="-3169.781f" Y="0f" Z="1574.213f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SarjonForest</MessageID>
+    <Translate X="1131.631f" Y="0f" Z="3279.099f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">SasamuroBeach</MessageID>
+    <Translate X="2211.632f" Y="0f" Z="3886.746f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SasamuroBeach</MessageID>
+    <Translate X="2585.381f" Y="0f" Z="3897.38f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ShariverMt</MessageID>
+    <Translate X="-3171.543f" Y="0f" Z="-2682.159f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ShikuriIslands</MessageID>
+    <Translate X="4521.309f" Y="0f" Z="1005.95f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ShimukaPlateau</MessageID>
+    <Translate X="2700.251f" Y="0f" Z="1570.958f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ShinikkyoForest</MessageID>
+    <Translate X="-1184.64f" Y="0f" Z="114.0016f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ShinyarkiPlateau</MessageID>
+    <Translate X="497.7478f" Y="0f" Z="-1537.654f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ShitanoPond</MessageID>
+    <Translate X="3266.479f" Y="0f" Z="2226.705f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SojijiHill</MessageID>
+    <Translate X="-1756.458f" Y="0f" Z="856.5569f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SonoPrairie</MessageID>
+    <Translate X="1392.167f" Y="0f" Z="-914.9767f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SoridaPeninsula</MessageID>
+    <Translate X="4705.739f" Y="0f" Z="-1374.005f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SouthGerudoRuins</MessageID>
+    <Translate X="-3727.03f" Y="0f" Z="3616.272f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SugrantForest</MessageID>
+    <Translate X="734.5349f" Y="0f" Z="3094.897f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SusonoLake</MessageID>
+    <Translate X="-2531.646f" Y="0f" Z="633.1318f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SusonoPlain</MessageID>
+    <Translate X="-3105.983f" Y="0f" Z="14.73462f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SusonoPond</MessageID>
+    <Translate X="-3536.961f" Y="0f" Z="149.4604f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">SusonoRiver</MessageID>
+    <Translate X="-2935.318f" Y="0f" Z="546.8506f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">SusonoRiver</MessageID>
+    <Translate X="-2465.394f" Y="0f" Z="200.1853f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SusonoRiver</MessageID>
+    <Translate X="-2350.726f" Y="0f" Z="84.72538f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">SwanLake</MessageID>
+    <Translate X="-2889.324f" Y="0f" Z="-2483.936f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">SwanLake</MessageID>
+    <Translate X="-2756.67f" Y="0f" Z="-2328.21f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TabantaHill</MessageID>
+    <Translate X="-2464.514f" Y="0f" Z="-1843.002f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="2">
+    <MessageID type="string">TabantaSnow</MessageID>
+    <Translate X="-1811.892f" Y="0f" Z="-2792.608f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TabantaSnow_North</MessageID>
+    <Translate X="-1792.18f" Y="0f" Z="-3689.481f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TabantaSnow_North</MessageID>
+    <Translate X="-1701.83f" Y="0f" Z="-3290.757f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TabantaSnow_South</MessageID>
+    <Translate X="-1961.89f" Y="0f" Z="-2288.708f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TabantaSnow_South</MessageID>
+    <Translate X="-1849.059f" Y="0f" Z="-2494.106f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TabantaSnow_South</MessageID>
+    <Translate X="-1763.614f" Y="0f" Z="-2933.21f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TabantaSnow_South</MessageID>
+    <Translate X="-1529.098f" Y="0f" Z="-2652.552f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TafeaHill</MessageID>
+    <Translate X="-2807.471f" Y="0f" Z="1819.189f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TagonaTrees</MessageID>
+    <Translate X="2572.545f" Y="0f" Z="-176.8188f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TakkikaPlain</MessageID>
+    <Translate X="-1877.393f" Y="0f" Z="711.0603f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TakkikaPlain</MessageID>
+    <Translate X="-1608.429f" Y="0f" Z="438.749f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TamaLake</MessageID>
+    <Translate X="-2963.511f" Y="0f" Z="-1897.98f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TamulPlain</MessageID>
+    <Translate X="3654.479f" Y="0f" Z="-2525.242f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TargarPlain</MessageID>
+    <Translate X="3927.257f" Y="0f" Z="382.1233f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TaruhoPlateau</MessageID>
+    <Translate X="2949.42f" Y="0f" Z="2380.303f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TatsubaLake</MessageID>
+    <Translate X="562.9833f" Y="0f" Z="1233.838f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TeguriPlain</MessageID>
+    <Translate X="-754.0406f" Y="0f" Z="2916.179f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TehotaWet</MessageID>
+    <Translate X="-629.7709f" Y="0f" Z="3839.289f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TennoMt</MessageID>
+    <Translate X="-2731.795f" Y="0f" Z="87.18301f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TeraPlain</MessageID>
+    <Translate X="258.7013f" Y="0f" Z="-45.52473f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TerumeMt</MessageID>
+    <Translate X="2483.598f" Y="0f" Z="2676.389f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TerumePass</MessageID>
+    <Translate X="2713.694f" Y="0f" Z="2853.93f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TohikiLake</MessageID>
+    <Translate X="2397.307f" Y="0f" Z="2533.541f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TomiyoPlateau</MessageID>
+    <Translate X="3089.409f" Y="0f" Z="830.2271f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TompoPlain</MessageID>
+    <Translate X="338.4846f" Y="0f" Z="-358.1859f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TorumaDesert</MessageID>
+    <Translate X="-4762.801f" Y="0f" Z="2731f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TotenLake</MessageID>
+    <Translate X="2463.219f" Y="0f" Z="2099.361f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland</MessageID>
+    <Translate X="1745.886f" Y="0f" Z="90.73376f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_Big</MessageID>
+    <Translate X="1712.681f" Y="0f" Z="-131.019f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_Center</MessageID>
+    <Translate X="1552.84f" Y="0f" Z="338.8682f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_East</MessageID>
+    <Translate X="2024.59f" Y="0f" Z="145.8313f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_New</MessageID>
+    <Translate X="1843.094f" Y="0f" Z="206.6926f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_North</MessageID>
+    <Translate X="1661.437f" Y="0f" Z="430.6453f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_Small</MessageID>
+    <Translate X="1775.585f" Y="0f" Z="376.5699f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_South</MessageID>
+    <Translate X="1451.774f" Y="0f" Z="169.6124f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TrakaIsland_West</MessageID>
+    <Translate X="1393.825f" Y="0f" Z="300.2272f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TryCape</MessageID>
+    <Translate X="3757.118f" Y="0f" Z="-412.1483f" />
+    <Type>4</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TsukaiePlateau</MessageID>
+    <Translate X="2855.961f" Y="0f" Z="2616.398f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TuaboSnow</MessageID>
+    <Translate X="-3473.622f" Y="0f" Z="1127.519f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TunbriPlain</MessageID>
+    <Translate X="2270.273f" Y="0f" Z="2942.125f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TurasuLake</MessageID>
+    <Translate X="635.1907f" Y="0f" Z="3635.114f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TutukikiSnow</MessageID>
+    <Translate X="-2285.844f" Y="0f" Z="-3161.549f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TutukikiSnow</MessageID>
+    <Translate X="-2198.219f" Y="0f" Z="-2901.49f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">TwinsMountain</MessageID>
+    <Translate X="1269.314f" Y="0f" Z="2038.746f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">TwinsMountain</MessageID>
+    <Translate X="1358.102f" Y="0f" Z="1781.719f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">UbotsuPlateau</MessageID>
+    <Translate X="1608.704f" Y="0f" Z="3629.548f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">UchoPlateau</MessageID>
+    <Translate X="1336.589f" Y="0f" Z="1424.199f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">UkkoPond</MessageID>
+    <Translate X="-4099.687f" Y="0f" Z="-2370.279f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">UkkoPond</MessageID>
+    <Translate X="-3927.746f" Y="0f" Z="-2544.069f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">UkkoPond</MessageID>
+    <Translate X="-3903.244f" Y="0f" Z="-2757.837f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">UraitoLake</MessageID>
+    <Translate X="1789.1f" Y="0f" Z="2942.552f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">UrokoCape</MessageID>
+    <Translate X="3544.813f" Y="0f" Z="3261.271f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">VPlateau</MessageID>
+    <Translate X="-2616.182f" Y="0f" Z="1556.137f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">WabiLake</MessageID>
+    <Translate X="3709.521f" Y="0f" Z="-1286.993f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">WabiLake</MessageID>
+    <Translate X="3924.29f" Y="0f" Z="-1496.903f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">WabiLake</MessageID>
+    <Translate X="3939.07f" Y="0f" Z="-1757.651f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">WatakaPlateau</MessageID>
+    <Translate X="2157.723f" Y="0f" Z="557.7363f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">WestEunpoHighlands</MessageID>
+    <Translate X="16.80026f" Y="0f" Z="-3454.644f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">WestGerudo</MessageID>
+    <Translate X="-4541.142f" Y="0f" Z="2502.274f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">WestGerudoRuins</MessageID>
+    <Translate X="-4468.558f" Y="0f" Z="2296.87f" />
+    <Type>1</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">XehaPlateau</MessageID>
+    <Translate X="3137.308f" Y="0f" Z="-876.8649f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">YamabiLake</MessageID>
+    <Translate X="2475.18f" Y="0f" Z="3583.516f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">YamariRiver</MessageID>
+    <Translate X="496.7848f" Y="0f" Z="1533.936f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">YamariRiver</MessageID>
+    <Translate X="917.0587f" Y="0f" Z="1784.092f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">YamariRiver</MessageID>
+    <Translate X="2129.223f" Y="0f" Z="2246.68f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">YamariRiver</MessageID>
+    <Translate X="2397.975f" Y="0f" Z="1887.819f" />
+    <Type>0</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">YarimoRiver</MessageID>
+    <Translate X="1486.099f" Y="0f" Z="-2549.578f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">YashinoBeach</MessageID>
+    <Translate X="3496.54f" Y="0f" Z="3459.753f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">YuaSnow</MessageID>
+    <Translate X="3512.131f" Y="0f" Z="1438.446f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ZamaPlain</MessageID>
+    <Translate X="-2323.899f" Y="0f" Z="-449.8285f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="8">
+    <MessageID type="string">ZaridoLake</MessageID>
+    <Translate X="1830.332f" Y="0f" Z="-2959.802f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ZaridoLake</MessageID>
+    <Translate X="2145.324f" Y="0f" Z="-3128.764f" />
+    <Type>3</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ZaridoPlateau</MessageID>
+    <Translate X="2292.724f" Y="0f" Z="-3678.547f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ZifForest</MessageID>
+    <Translate X="-367.9718f" Y="0f" Z="1525.365f" />
+    <Type>7</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ZitoGreens</MessageID>
+    <Translate X="-596.4113f" Y="0f" Z="204.7938f" />
+    <Type>5</Type>
+  </value>
+  <value ShowLevel="4">
+    <MessageID type="string">ZoraBridge</MessageID>
+    <Translate X="3233.183f" Y="0f" Z="-314.3022f" />
+    <Type>1</Type>
+  </value>
+</yaml>
