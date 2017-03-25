@@ -11,11 +11,11 @@
 			position: absolute;
 			background: cyan;
 			border: 1px solid blue;
-			width: 12px;
-			height: 12px;
+			width: 10px;
+			height: 10px;
 			font-size: 0;
 			border-radius: 50%;
-			transform: translate(-6px,-6px);
+			transform: translate(-5px,-5px);
 		}
 		.waypoint:hover {
 			width: auto;
@@ -34,7 +34,7 @@
 		</div>
 		<script>
 			for (var i=0; i<locations.length; i++) {
-				$('#container').append("<div class='waypoint' style='left: " + locations[i].x + "; top: " + locations[i].y + "'>"+locations[i].display_name+"</div>");
+				$('#container').append("<div class='waypoint' style='left: " + (3000 + locations[i].x/2) + "; top: " + (2500 + locations[i].y/2) + "'>"+locations[i].display_name+"</div>");
 			}
 		</script>
 	</body>

@@ -43,11 +43,11 @@ for child in list(root[1]) + list(root[2]):
     if messageID.startswith('Dungeon'):
         continue # ignore the 120 shrines
 
-    img_x = int(3000 + x // 2)
-    img_y = int(2500 + z // 2)
-    print(messageID, img_x, img_y, name)
+    img_x = int(x)
+    img_y = int(z)
+    print('{"internal_name":"%s", "display_name":"%s", "x":%g, "y":%g},' % (messageID, name, x, z))
 
-    map_draw.ellipse((img_x-CIRCLE_RADIUS, img_y-CIRCLE_RADIUS, img_x+CIRCLE_RADIUS, img_y+CIRCLE_RADIUS), fill='cyan', outline='red')
+    map_draw.ellipse((img_x-CIRCLE_RADIUS, img_y-CIRCLE_RADIUS, img_x+CIRCLE_RADIUS, img_y+CIRCLE_RADIUS), fill='cyan', outline='blue')
 
     
 
