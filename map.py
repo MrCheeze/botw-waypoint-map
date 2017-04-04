@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from PIL import Image, ImageDraw
 
 
-CIRCLE_RADIUS = 5
+CIRCLE_RADIUS = 7
 
 
 location_names = {}
