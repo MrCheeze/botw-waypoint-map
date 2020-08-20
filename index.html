@@ -11,8 +11,8 @@
 			position: absolute;
 			background: cyan;
 			border: 1px solid blue;
-			width: 10px;
-			height: 10px;
+			width: 40px;
+			height: 40px;
 			font-size: 0;
 			border-radius: 50%;
 			transform: translate(-5px,-5px);
@@ -20,22 +20,32 @@
 		.waypoint:hover {
 			width: auto;
 			height: auto;
-			font-size: initial;
+			font-size: 40px;
 			z-index: 1000;
 			border-radius: 0%;
 			white-space: nowrap;
 			padding: 0px 2px 0px 2px;
 		}
+		.clicked {
+			background: pink;
+			border: 1px solid red;
+		}
 		</style>
 	</head>
 	<body>
 		<div id='container'>
-			<img src='BotW-Map.png'/>
+			<img src='BotW-Map.png' />
 		</div>
 		<div><a href="https://mrcheeze.github.io/">https://mrcheeze.github.io/</a></div>
 		<script>
 			for (var i=0; i<locations.length; i++) {
-				$('#container').append("<div class='waypoint' style='left: " + (3000 + locations[i].x/2) + "; top: " + (2500 + locations[i].y/2) + "'>"+locations[i].display_name+"</div>");
+				let waypoint = document.createElement('div');
+				waypoint.className = "waypoint";
+				waypoint.style.left = (3000 + locations[i].x/2);
+				waypoint.style.top = (2500 + locations[i].y/2);
+				waypoint.innerText = locations[i].display_name;
+				waypoint.onclick = () => waypoint.classList.toggle('clicked');
+				container.append(waypoint);
 			}
 		</script>
 	</body>
