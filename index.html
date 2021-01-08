@@ -38,14 +38,50 @@
 		</div>
 		<div><a href="https://mrcheeze.github.io/">https://mrcheeze.github.io/</a></div>
 		<script>
+			const clickedWaypoints = getClickedWaypoints();
 			for (var i=0; i<locations.length; i++) {
 				let waypoint = document.createElement('div');
 				waypoint.className = "waypoint";
 				waypoint.style.left = (3000 + locations[i].x/2);
 				waypoint.style.top = (2500 + locations[i].y/2);
 				waypoint.innerText = locations[i].display_name;
-				waypoint.onclick = () => waypoint.classList.toggle('clicked');
+				waypoint.dataset.id = locations[i].internal_name;
+				waypoint.onclick = () => handleWaypointClicked(waypoint);
+				if (clickedWaypoints.includes(locations[i].internal_name)) {
+					waypoint.classList.add('clicked');
+				}
 				container.append(waypoint);
+			}
+
+			function handleWaypointClicked(waypoint) {
+				const internal_name = waypoint.dataset.id;
+				if (waypoint.classList.contains('clicked')) {
+					removeWaypointFromStorage(internal_name);
+				} else {
+					addWaypointToStorage(internal_name);
+				}
+				waypoint.classList.toggle('clicked');
+			}
+
+			function addWaypointToStorage(name) {
+				const waypoints = getClickedWaypoints();
+				waypoints.push(name);
+				localStorage.setItem('CLICKED_WAYPOINTS', JSON.stringify(waypoints));
+			}
+
+			function removeWaypointFromStorage(name) {
+				const waypoints = getClickedWaypoints();
+				const filteredWaypoints = waypoints.filter((waypoint) => waypoint !== name);
+				localStorage.setItem('CLICKED_WAYPOINTS', JSON.stringify(filteredWaypoints));
+			}
+
+			function getClickedWaypoints() {
+				const waypoints = localStorage.getItem('CLICKED_WAYPOINTS');
+				if (!waypoints) {
+					localStorage.setItem('CLICKED_WAYPOINTS', '[]');
+					return [];
+				}
+				return JSON.parse(waypoints);
 			}
 		</script>
 	</body>
