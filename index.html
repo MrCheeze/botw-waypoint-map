@@ -1,12 +1,28 @@
 <html>
+
 	<head>
 		<title>Zelda: Breath of the Wild Waypoint Map</title>
 		<script src='map_locations.js'></script>
+	<script src='drag.js'></script>
 		<style>
+		body {
+			height: 100vh;
+			overflow: hidden;
+		}
+
 		#container {
 			position: relative;
+			cursor: grab;
+			max-height: 100%;
+			overflow: scroll;
 		}
+		img {
+			user-select: none;
+			-moz-user-select: none;
+		}
+
 		.waypoint {
+			cursor: pointer;
 			position: absolute;
 			background: cyan;
 			border: 1px solid blue;
@@ -14,8 +30,9 @@
 			height: 40px;
 			font-size: 0;
 			border-radius: 50%;
-			transform: translate(-5px,-5px);
+			transform: translate(-5px, -5px);
 		}
+
 		.waypoint:hover {
 			width: auto;
 			height: auto;
@@ -25,24 +42,26 @@
 			white-space: nowrap;
 			padding: 0px 2px 0px 2px;
 		}
+
 		.clicked {
-			background: pink;
-			border: 1px solid red;
+			background: rgb(143, 238, 147);
+			border: 1px solid rgb(0, 204, 61);
 		}
 		</style>
 	</head>
+
 	<body>
 		<div id='container'>
-			<img src='BotW-Map.png' />
+		<img src='BotW-Map.png' draggable="false" />
 		</div>
 		<div><a href="https://mrcheeze.github.io/">https://mrcheeze.github.io/</a></div>
 		<script>
 			const clickedWaypoints = getClickedWaypoints();
-			for (var i=0; i<locations.length; i++) {
+		for (var i = 0; i < locations.length; i++) {
 				let waypoint = document.createElement('div');
 				waypoint.className = "waypoint";
-				waypoint.style.left = (3000 + locations[i].x/2);
-				waypoint.style.top = (2500 + locations[i].y/2);
+			waypoint.style.left = (3000 + locations[i].x / 2);
+			waypoint.style.top = (2500 + locations[i].y / 2);
 				waypoint.innerText = locations[i].display_name;
 				waypoint.dataset.id = locations[i].internal_name;
 				waypoint.onclick = () => handleWaypointClicked(waypoint);
@@ -82,6 +101,8 @@
 				}
 				return JSON.parse(waypoints);
 			}
+
 		</script>
 	</body>
+
 </html>
