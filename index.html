@@ -1,10 +1,11 @@
 <html>
 
-	<head>
-		<title>Zelda: Breath of the Wild Waypoint Map</title>
-		<script src='map_locations.js'></script>
+<head>
+	<title>Zelda: Breath of the Wild Waypoint Map</title>
+	<script src='map_locations.js'></script>
 	<script src='drag.js'></script>
-		<style>
+	<script src='zoom.js'></script>
+	<style>
 		body {
 			height: 100vh;
 			overflow: hidden;
@@ -16,6 +17,32 @@
 			max-height: 100%;
 			overflow: scroll;
 		}
+
+		.zoom-container {
+			z-index: 100;
+			position: fixed;
+			top: 0;
+			display: flex;
+			flex-direction: column;
+			text-align: center;
+			margin: 0.5em;
+
+			cursor: pointer;
+			background-color: rgba(0, 0, 0, 0.4);
+			color: white;
+			font-size: 30px;
+			line-height: 30px;
+		}
+
+		.zoom-btn {
+			width: 30px;
+			height: 30px;
+		}
+
+		.zoom-btn+.zoom-btn {
+			border-top: 1px solid #ccc;
+		}
+
 		img {
 			user-select: none;
 			-moz-user-select: none;
@@ -47,62 +74,66 @@
 			background: rgb(143, 238, 147);
 			border: 1px solid rgb(0, 204, 61);
 		}
-		</style>
-	</head>
+	</style>
+</head>
 
-	<body>
-		<div id='container'>
+<body>
+	<div class="zoom-container">
+		<div id="zoom-in" class="zoom-btn">+</div>
+		<div id="zoom-out" class="zoom-btn">-</div>
+	</div>
+	<div id='container'>
 		<img src='BotW-Map.png' draggable="false" />
-		</div>
-		<div><a href="https://mrcheeze.github.io/">https://mrcheeze.github.io/</a></div>
-		<script>
-			const clickedWaypoints = getClickedWaypoints();
+	</div>
+	<div><a href="https://mrcheeze.github.io/">https://mrcheeze.github.io/</a></div>
+	<script>
+		const clickedWaypoints = getClickedWaypoints();
 		for (var i = 0; i < locations.length; i++) {
-				let waypoint = document.createElement('div');
-				waypoint.className = "waypoint";
+			let waypoint = document.createElement('div');
+			waypoint.className = "waypoint";
 			waypoint.style.left = (3000 + locations[i].x / 2);
 			waypoint.style.top = (2500 + locations[i].y / 2);
-				waypoint.innerText = locations[i].display_name;
-				waypoint.dataset.id = locations[i].internal_name;
-				waypoint.onclick = () => handleWaypointClicked(waypoint);
-				if (clickedWaypoints.includes(locations[i].internal_name)) {
-					waypoint.classList.add('clicked');
-				}
-				container.append(waypoint);
+			waypoint.innerText = locations[i].display_name;
+			waypoint.dataset.id = locations[i].internal_name;
+			waypoint.onclick = () => handleWaypointClicked(waypoint);
+			if (clickedWaypoints.includes(locations[i].internal_name)) {
+				waypoint.classList.add('clicked');
 			}
+			container.append(waypoint);
+		}
 
-			function handleWaypointClicked(waypoint) {
-				const internal_name = waypoint.dataset.id;
-				if (waypoint.classList.contains('clicked')) {
-					removeWaypointFromStorage(internal_name);
-				} else {
-					addWaypointToStorage(internal_name);
-				}
-				waypoint.classList.toggle('clicked');
+		function handleWaypointClicked(waypoint) {
+			const internal_name = waypoint.dataset.id;
+			if (waypoint.classList.contains('clicked')) {
+				removeWaypointFromStorage(internal_name);
+			} else {
+				addWaypointToStorage(internal_name);
 			}
+			waypoint.classList.toggle('clicked');
+		}
 
-			function addWaypointToStorage(name) {
-				const waypoints = getClickedWaypoints();
-				waypoints.push(name);
-				localStorage.setItem('CLICKED_WAYPOINTS', JSON.stringify(waypoints));
+		function addWaypointToStorage(name) {
+			const waypoints = getClickedWaypoints();
+			waypoints.push(name);
+			localStorage.setItem('CLICKED_WAYPOINTS', JSON.stringify(waypoints));
+		}
+
+		function removeWaypointFromStorage(name) {
+			const waypoints = getClickedWaypoints();
+			const filteredWaypoints = waypoints.filter((waypoint) => waypoint !== name);
+			localStorage.setItem('CLICKED_WAYPOINTS', JSON.stringify(filteredWaypoints));
+		}
+
+		function getClickedWaypoints() {
+			const waypoints = localStorage.getItem('CLICKED_WAYPOINTS');
+			if (!waypoints) {
+				localStorage.setItem('CLICKED_WAYPOINTS', '[]');
+				return [];
 			}
+			return JSON.parse(waypoints);
+		}
 
-			function removeWaypointFromStorage(name) {
-				const waypoints = getClickedWaypoints();
-				const filteredWaypoints = waypoints.filter((waypoint) => waypoint !== name);
-				localStorage.setItem('CLICKED_WAYPOINTS', JSON.stringify(filteredWaypoints));
-			}
-
-			function getClickedWaypoints() {
-				const waypoints = localStorage.getItem('CLICKED_WAYPOINTS');
-				if (!waypoints) {
-					localStorage.setItem('CLICKED_WAYPOINTS', '[]');
-					return [];
-				}
-				return JSON.parse(waypoints);
-			}
-
-		</script>
-	</body>
+	</script>
+</body>
 
 </html>
