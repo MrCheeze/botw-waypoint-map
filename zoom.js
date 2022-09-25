@@ -1,17 +1,20 @@
-const zoomIncrement = 0.2;
-
-const getZoom = () => +document.querySelector('#container').style.zoom || 1;
-const setZoom = (zoom) => document.querySelector('#container').style.zoom = Math.max(zoom, zoomIncrement);
+var panzoomInstance;
 
 addEventListener('DOMContentLoaded', () => {
-    document.querySelector("#zoom-in").onclick = () => setZoom(getZoom() + zoomIncrement);
-    document.querySelector("#zoom-out").onclick = () => setZoom(getZoom() - zoomIncrement);
-})
+    panzoomInstance = panzoom(document.querySelector('#container'), {
+        minZoom: 0.5,
+        maxZoom: 2.5,
 
-this.addEventListener('keypress', event => {
-    if (event.key === "+" || event.key === "=") {
-        setZoom(getZoom() + zoomIncrement)
-    } else if (event.key === "-") {
-        setZoom(getZoom() - zoomIncrement);
-    }
+        // Prevent moving the map when clicking a waypoint on desktop
+        beforeMouseDown: function (e) {
+            if (e.target?.className?.includes("waypoint")) return true;
+            return false; // tells the library to not preventDefault.
+        },
+
+        // Prevent dragging when clicking a waypoint on mobile
+        onTouch: function (e) {
+            if (e.target?.className?.includes("waypoint")) return false;
+            return true; // tells the library to not preventDefault.
+        }
+    })
 })
